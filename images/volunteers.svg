@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">GSI Volunteers</title>
+  <desc id="desc">Illustration of community volunteers working together for environmental action.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ebf8ef"/>
+      <stop offset="100%" stop-color="#dfeecf"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="220" cy="500" rx="180" ry="58" fill="#cfe5b5"/>
+  <ellipse cx="560" cy="500" rx="200" ry="65" fill="#cfe5b5"/>
+  <rect x="110" y="210" width="120" height="180" rx="18" fill="#0a5a2b"/>
+  <rect x="250" y="180" width="140" height="210" rx="18" fill="#11773d"/>
+  <rect x="430" y="220" width="110" height="170" rx="18" fill="#0a5a2b"/>
+  <rect x="560" y="165" width="150" height="225" rx="18" fill="#11773d"/>
+  <circle cx="170" cy="155" r="34" fill="#f0d4b2"/>
+  <circle cx="322" cy="135" r="40" fill="#f0d4b2"/>
+  <circle cx="485" cy="155" r="36" fill="#f0d4b2"/>
+  <circle cx="635" cy="118" r="42" fill="#f0d4b2"/>
+  <path d="M120 420L220 340L250 420Z" fill="#5c8d4a"/>
+  <path d="M250 420L380 325L430 420Z" fill="#6ca95c"/>
+  <path d="M430 420L545 340L580 420Z" fill="#5c8d4a"/>
+  <path d="M560 420L690 310L720 420Z" fill="#6ca95c"/>
+  <circle cx="235" cy="220" r="18" fill="#f3e7d2"/>
+  <circle cx="325" cy="210" r="18" fill="#f3e7d2"/>
+  <circle cx="480" cy="220" r="18" fill="#f3e7d2"/>
+  <circle cx="625" cy="200" r="18" fill="#f3e7d2"/>
+  <path d="M120 205C150 185 180 185 200 205" stroke="#dfeecf" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M246 190C282 172 350 170 382 190" stroke="#dfeecf" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M420 215C450 195 500 196 526 216" stroke="#dfeecf" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M566 172C596 150 656 150 685 170" stroke="#dfeecf" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>

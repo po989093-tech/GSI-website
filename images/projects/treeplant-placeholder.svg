@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="540" viewBox="0 0 800 540">
+  <rect width="100%" height="100%" fill="#f4fff7"/>
+  <g transform="translate(0,30)">
+    <text x="24" y="28" font-family="Inter, Arial" font-size="20" fill="#0b5a2a">Community Tree Planting</text>
+    <!-- ground -->
+    <rect x="0" y="360" width="800" height="180" fill="#eaf6ec"/>
+    <!-- volunteers planting -->
+    <g transform="translate(60,360)" fill="#0b5a2a">
+      <rect x="0" y="-28" width="16" height="40"/>
+      <circle cx="8" cy="-40" r="10"/>
+      <path d="M40 -10 C50 -40 86 -40 100 -10"/>
+    </g>
+    <g transform="translate(240,360)" fill="#0b5a2a">
+      <rect x="0" y="-22" width="18" height="36"/>
+      <circle cx="9" cy="-36" r="10"/>
+    </g>
+    <g transform="translate(420,360)" fill="#0b5a2a">
+      <rect x="0" y="-26" width="16" height="40"/>
+      <circle cx="8" cy="-38" r="10"/>
+    </g>
+    <!-- saplings -->
+    <g fill="#0e7a3a">
+      <path d="M100 320 L106 300 L112 320 Z"/>
+      <path d="M260 316 L266 296 L272 316 Z"/>
+      <path d="M440 318 L446 298 L452 318 Z"/>
+      <ellipse cx="106" cy="294" rx="14" ry="10"/>
+      <ellipse cx="266" cy="290" rx="16" ry="12"/>
+      <ellipse cx="446" cy="292" rx="14" ry="10"/>
+    </g>
+  </g>
+</svg>
