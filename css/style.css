@@ -55,7 +55,7 @@ strong{color:var(--text)}
   position:relative;
   padding:4.5rem 0;
   margin-top:1rem;
-  background:linear-gradient(90deg, rgba(10,32,18,0.78), rgba(10,32,18,0.42)), url('/images/hero.jpg.png') center 52% / cover no-repeat;
+  background:linear-gradient(90deg, rgba(10,32,18,0.78), rgba(10,32,18,0.42)), url('../images/hero.jpg.png') center 52% / cover no-repeat;
   border-radius:22px;
   overflow:hidden;
   box-shadow:0 20px 46px rgba(15,52,28,0.12)

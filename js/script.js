@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const sources = Array.from(document.querySelectorAll('picture source'));
     await Promise.all(sources.map(async (s)=>{
       const src = s.getAttribute('srcset');
-      if(!src || !src.includes('/images/optimized/')) return;
+      if(!src || !src.includes('images/optimized/')) return;
       try{
         const res = await fetch(src, {method:'GET'});
         if(!res.ok){
